@@ -8,7 +8,7 @@ A Programação me permite fazer coisas que eu nunca imaginei fazer e assim impa
 
 * 🌍  Eu moro no Brasil/ Pernambuco
 * 🖥️  Me chame no [Likedin](http://https://www.linkedin.com/in/felipe-gon%C3%A7alves-377507318/)
-* ✉️  Me contate no meu E-mail [felipegr2000@gmail.com](mailto:felipegr2000@gmail.com)
+* ✉️  Me contate no meu E-mail [fgrdev98@gmail.com](mailto:fgrdev98@gmail.com)
 * 🧠  O que estou estudando atualmente Typescript e Nest
 * 👥  Estou interessado em colaborar em projetos!
 * 💬  Sobre mim Gosto de jogos Desafiantes...como roguelikes!
